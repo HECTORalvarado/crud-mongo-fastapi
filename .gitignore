@@ -5,6 +5,7 @@ __pycache__
 
 # Archivos de entorno virtual
 env/
+venv/
 
 # Archivos generados por el sistema
 .DS_Store
